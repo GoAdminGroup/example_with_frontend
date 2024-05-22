@@ -30,7 +30,7 @@ language: cn
 # 全局路由前缀
 prefix: admin
 # UI主题
-theme: sword
+theme: sword_sep
 # 文件存储设置，设置上传文件的存储路径以及路由前缀
 store:
   path: ./uploads

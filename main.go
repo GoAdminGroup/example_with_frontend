@@ -11,7 +11,7 @@ import (
 
 	_ "github.com/GoAdminGroup/go-admin/adapter/gin"               // web framework adapter
 	_ "github.com/GoAdminGroup/go-admin/modules/db/drivers/sqlite" // sql driver
-	_ "github.com/GoAdminGroup/themes/sword"                       // ui theme
+	_ "github.com/GoAdminGroup/themes/sword/separation"            // ui theme
 
 	"github.com/GoAdminGroup/example/models"
 	"github.com/GoAdminGroup/example/pages"
