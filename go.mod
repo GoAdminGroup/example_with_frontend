@@ -3,8 +3,8 @@ module github.com/GoAdminGroup/example
 go 1.21.5
 
 require (
-	github.com/GoAdminGroup/go-admin v1.2.26
-	github.com/GoAdminGroup/themes v0.0.47
+	github.com/GoAdminGroup/go-admin v1.2.27-0.20240704013520-bf41aec4c9b4
+	github.com/GoAdminGroup/themes v0.0.48
 	github.com/gavv/httpexpect v2.0.0+incompatible
 	github.com/gin-gonic/gin v1.5.0
 	github.com/jinzhu/gorm v1.9.12
